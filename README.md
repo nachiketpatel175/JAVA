@@ -1,2 +1,0 @@
-# nachiket-patel
-C++
